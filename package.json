@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tworkman512/My-React-Boilerplate/issues"
   },
-  "homepage": "https://github.com/tworkman512/My-React-Boilerplate#readme"
+  "homepage": "https://github.com/tworkman512/My-React-Boilerplate#readme",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  }
 }
