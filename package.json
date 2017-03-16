@@ -1,0 +1,19 @@
+{
+  "name": "my-react-boilerplate",
+  "version": "1.0.0",
+  "description": "My boilerplate starter code for a ReactJS project. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tworkman512/My-React-Boilerplate.git"
+  },
+  "author": "Tom Workman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tworkman512/My-React-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/tworkman512/My-React-Boilerplate#readme"
+}
